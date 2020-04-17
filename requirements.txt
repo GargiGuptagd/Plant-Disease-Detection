@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==2.2.10
 djangorestframework==3.10.3
 gunicorn==19.9.0
 pytz==2019.3
