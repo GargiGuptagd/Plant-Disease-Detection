@@ -1,0 +1,10 @@
+Django==2.2.7
+djangorestframework==3.10.3
+gunicorn==19.9.0
+pytz==2019.3
+sqlparse==0.3.0
+urllib3==1.19.1
+setuptools==41.6.0
+Keras==2.3.1
+Pillow==6.2.1
+tensorflow==2.0.0
